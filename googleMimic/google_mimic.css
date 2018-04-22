@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background-color: #FAFFFE;
+}
+
+.textfield {
+  font-size: 1.2em;
+  width: 400px;
+  margin-bottom: 20px;
+  background-image: url(mic.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  border: 2px solid black;
+}
+
+img {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  font-size: 0.8em;
+  color: gray;
+  font-weight: lighter;
+  padding: 10px;
+  background-color: #D8F3E2;
+  border: 0.8px solid #D8F3E2;
+}
