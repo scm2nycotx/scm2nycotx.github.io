@@ -1,0 +1,31 @@
+.modal-dialog {
+  position: absolute;
+  border-radius: 10px;
+  width: 500px;
+  height: 200px;
+  background-color: grey;
+  margin: auto;
+  box-shadow: 10px 10px 10px black;
+}
+
+.modal-header {
+  color: white;
+  padding: 5px;
+  font-size: 10pt;
+}
+
+.modal-content {
+  background-color: lightblue;
+  padding: 5px;
+  margin: auto;
+}
+
+.modal-buttons {
+  text-align: center;
+  padding: 3px;
+}
+
+.modal-background {
+  background-color: rgba(255, 255, 255, 0.5);
+  position: absolute;
+}
